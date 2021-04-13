@@ -1,3 +1,5 @@
+#In progress, Just some code I found/worked on. Have not tested.
+
 from pandas_datareader import data as pdr
 from datetime import date
 import yfinance as yf
