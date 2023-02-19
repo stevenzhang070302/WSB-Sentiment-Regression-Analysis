@@ -1,4 +1,4 @@
-# WSBSentimentDataScience
+# Using Sentiment Analysis to identify Patterns in GME Stock from r/WallStreetBets subreddit
 Using Python pandas, scikit-learn, and matplotlib to predict the relationship between r/Wallstreetbets sentiment and stock prices.
 
 * This is a group project for the University of Georgia's CSCI 3360(Data Science 1) class.
